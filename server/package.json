@@ -10,7 +10,9 @@
   },
   "author": "Kharoh",
   "license": "UNLICENSED",
-  "dependencies": {},
+  "dependencies": {
+    "kf-database": "^1.1.1"
+  },
   "devDependencies": {
     "ts-node": "^8.10.2",
     "typescript": "^3.9.5"
